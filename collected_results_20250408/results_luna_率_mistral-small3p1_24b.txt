@@ -1,0 +1,206 @@
+中心匯率	zhong xin hui lv
+中籤率	zhong qian lv
+乖離率	guai li shuai
+人口自然增加率	ren kou zi ran zeng jia lv
+低利率	di li lv
+低頻率	di pin lv
+佔有率	zhan you lv
+佔用率	zhan yong lv
+使用率	shi yong lv
+倍率	bei lv
+傳輸速率	chuan shu su lv
+兌換率	dui huan shuai
+兜率天	dou shuai tian
+兜率天宮	dou shuai tian gong
+兜率宮	dou shuai gong
+公用事業費率	gong yong shi ye fei lv
+公用事業費率	gong yong shi ye fei lve
+公用事業費率	gong yong shi ye fei shuai
+公用費率	gong yong fei lv
+再犯率	zai fan shuai
+出生率	chu sheng lv
+分辨率	fen bian lv
+分辨率爲	fen bian lve wei
+利潤率	li run lv
+利率	li lv
+利率政策	li lv zheng ce
+利用效率	li yong xiao lv
+利用率	li yong lv
+功率	gong lv
+功率因數	gong lv yin shu
+功率比	gong lv pi
+功率表	gong lv biao
+勗率	xu shuai
+勝率	sheng shuai
+匯率	hui lv
+升學率	sheng xue shuai
+協定稅率	xie ding shui shuai
+合格率	he ge lv
+名目利率	ming mu li lv
+命中率	ming zhong lv
+單一稅率	dan yi shui lv
+回報率	hui bao lv
+固定利率	gu ding li lv
+固定匯率	gu ding hui lv
+坦率	tan shuai
+基本放款利率	ji ben fang kuan li lv
+基準利率	ji zhun li lv
+增長率	zeng zhang lv
+外匯匯率	wai hui hui lv
+外匯匯率	wai hui hui lve
+外匯匯率	wai hui hui shuai
+大功率	da gong lv
+失業率	shi ye lv
+嬰兒死亡率	ying er si wang lv
+存款利率	cun kuan li lv
+存款準備率	cun kuan zhun bei lv
+存活率	cun huo shuai
+守備率	shou bei lv
+安全率	an quan lv
+定率	ding lv
+容積率	rong ji shuai
+實質利率	zhi zhi li lv
+就業率	jiu ye shuai
+工作效率	gong zuo xiao lv
+工率	gong lv
+市場占有率	shi chang zhan you lv
+市盈率	shi ying 無
+年利率	nian li lv
+年增率	nian zeng shuai
+建蔽率	jian bi lv
+彀率	gou lv
+得票率	de piao lv
+心率	xin lv
+悉率	xi lv
+應收帳款週轉率	ying shou zhang kuan zhou zhuan shuai
+成功率	cheng gong lv
+成活率	cheng huo lv
+成長率	cheng zhang lv
+或然率	huo ran lv
+打擊率	da ji shuai
+扣繳率	kou jiao lv
+投手防禦率	tou shou fang yu shuai
+投資報酬率	tou zi bao chou lv
+折價率	zhe jia lv
+拆款利率	chai kuan li lv
+掛牌匯率	gua pai hui shuai
+提高效率	ti gao xiao lv
+換手率	huan shou lv
+支持率	zhi chi lv
+收益率	shou yi lu
+收視率	shou shi lv
+放大率	fang da shuai
+效率	xiao lv
+效率高	xiao lv gao
+整躬率物	zheng gong shuai wu
+普及率	pu ji lv
+普天率土	pu tian shuai tu
+曲率	qu lv
+最大功率	zui da gong lv
+月利率	yue li lv
+概率	gai lv
+機械效率	ji xie xiao lv
+機率	ji lv
+機率預報	ji lv yu bao
+正身率下	zheng shen shuai xia
+死亡率	si wang lv
+比率	bi lv
+毛利率	mao li lv
+法定準備率	fa ding zhun bei lv
+流動比率	liu dong bi lv
+浮動匯率	fu dong hui lv
+渠率	qu shuai
+準備金率	zhun bei jin lv
+準確率	zhun que lv
+熱導率	re dao lv
+牌告利率	pai gao li lv
+特高頻率	te gao pin lv
+犯罪率	fan zui lv
+獲利率	huo li lv
+率以爲常	lv yi wei chang
+率低	lv di
+率先	shuai xian
+率同	lv tong
+率土之濱	shuai tu zhi bin
+率土同慶	lv tu tong qing
+率土宅心	shuai tu zhai xin
+率土歸心	shuai tu kui xin
+率師	shuai shi
+率性	shuai xing
+率更	shuai geng
+率然	shuai ran
+率爲	shuai wei
+率爾	shuai er
+率爾成章	shuai er cheng zhang
+率爾操觚	shuai er cao gu
+率獸食人	shuai shou shi ren
+率率	shuai shuai
+率由舊則	shuai you jiu ze
+率由舊章	shuai you jiu zhang
+率皆	lv jie
+率直	shuai zhi
+率真	shuai zhen
+率達	lv da
+率達	shuai da
+率隊	shuai dui
+率領	shuai ling
+率馬以驥	shuai ma yi ji
+率高	lv gao
+生產效率	sheng chan xiao lv
+生產率	sheng chan lv
+疏率	shu shuai
+發生率	fa sheng shuai
+發病率	fa bing lv
+百分率	bai fen lv
+百獸率舞	bai shou shuai wu
+直率	zhi shuai
+相率	xiang shuai
+真率	zhen shuai
+督率	du shuai
+碼率	ma lv
+稅率	shui shuai
+空屋率	kong wu shuai
+粗率	cu lv
+累進稅率	lei jin shui lv
+累進稅率	lei jin shui lve
+累進稅率	lei jin shui shuai
+統率	tong shuai
+經濟成長率	jing ji cheng zhang shuai
+股票投資獲利率	gu piao tou zi huo li lv
+自然利率	zi ran li lv
+自然增加率	zi ran zeng jia shuai
+自然率	zi ran shuai
+自由稅率	zi you shui lv
+草率	cao shuai
+草率將事	cao shuai jiang zi
+草率收兵	cao shuai shou bing
+行政效率	xing zheng xiao lv
+行車速率	xing che su lv
+表率	biao shuai
+覆蓋率	fu gai lve
+親率	qin shuai
+變動匯率	bian dong hui lv
+貢獻率	gong xian lv
+貸款利率	dai kuan li lv
+費率	fei lv
+貼現率	tie xian lv
+賠率	pei lv
+躬先表率	gong xian biao shuai
+輕率	qing shuai
+輸出功率	shu chu gong lv
+通過率	tong guo lu
+速動比率	su dong bi lv
+速率	su lv
+重貼現率	chong tie xian lv
+錄取率	lu qu lv
+關稅率	guan shui lv
+離心率	li xin lv
+零稅率	ling shui shuai
+電功率	dian gong lv
+頻率	pin lv
+飛機派遣可靠率	fei ji pai qian ke kao lv
+驅蟲效率	qu chong xiao lv
+高分辨率	gao fen bian lv
+高效率	gao xiao lv
+鳩率	jiu lv
+點擊率	dian ji shuai
