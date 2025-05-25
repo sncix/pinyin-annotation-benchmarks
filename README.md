@@ -50,7 +50,7 @@
 
 各模型均使用由 ollama 官方分發的 Q4_K_M 量化版本[^1]。
 
-[^1]: 使用的各模型在 ollama 內的 ID（實質上是 manifest 文件的 sha256 摘要值的前十二位，雖然 ollama 官方文檔未見記載這一點）爲：qwq:32b 009cb3f08d74；openthinker:32b 04b5937dcb16；deepseek-r1:32b 0a8c26691023；qwen2.5:32b 9f13ba1299af；mistral-small3.1:24b b9aaf0c2586a。
+[^1]: 使用的各模型在 ollama 內的 ID（實質上是 manifest 文件的 sha256 摘要值的前十二位，雖然 ollama 官方文檔未見記載這一點）爲：qwq:32b 009cb3f08d74；openthinker:32b 04b5937dcb16；deepseek-r1:32b 38056bbcbb2d；qwen2.5:32b 9f13ba1299af；mistral-small3.1:24b b9aaf0c2586a。
 
 ## 結果
 
